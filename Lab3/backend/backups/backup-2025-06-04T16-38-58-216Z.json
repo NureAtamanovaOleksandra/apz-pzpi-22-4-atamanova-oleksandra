@@ -1,0 +1,811 @@
+{
+  "orders": [
+    {
+      "_id": "676ab6e06567821efc4a51c9",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "rejected",
+      "createdAt": "2024-12-24T13:28:00.968Z",
+      "updatedAt": "2024-12-24T13:28:00.968Z",
+      "__v": 0
+    },
+    {
+      "_id": "676ad6775b5d51ef6d2e4531",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "accepted",
+      "createdAt": "2024-12-24T15:42:47.343Z",
+      "updatedAt": "2024-12-24T15:42:47.343Z",
+      "__v": 0
+    },
+    {
+      "_id": "676ad6885b5d51ef6d2e4535",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "processing",
+      "createdAt": "2024-12-24T15:43:04.333Z",
+      "updatedAt": "2024-12-24T15:43:04.333Z",
+      "__v": 0
+    },
+    {
+      "_id": "676bbd1bc693be892cf8d9db",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "rejected",
+      "createdAt": "2024-12-25T08:06:51.132Z",
+      "updatedAt": "2024-12-25T08:06:51.132Z",
+      "__v": 0
+    },
+    {
+      "_id": "676bbd2fc693be892cf8d9e0",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "rejected",
+      "createdAt": "2024-12-25T08:07:11.770Z",
+      "updatedAt": "2024-12-25T08:07:11.770Z",
+      "__v": 0
+    },
+    {
+      "_id": "6767cab0386fb1a89fd59074",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "122000"
+      },
+      "status": "processing",
+      "createdAt": "2024-12-22T08:15:44.366Z",
+      "updatedAt": "2024-12-22T08:15:44.366Z",
+      "__v": 0
+    },
+    {
+      "_id": "676aaf456567821efc4a51bb",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "processing",
+      "createdAt": "2024-12-24T12:55:33.037Z",
+      "updatedAt": "2024-12-24T12:55:33.037Z",
+      "__v": 0
+    },
+    {
+      "_id": "676c363301c62ce013daf100",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "processing",
+      "createdAt": "2024-12-25T16:43:31.221Z",
+      "updatedAt": "2024-12-25T16:43:31.221Z",
+      "__v": 0
+    },
+    {
+      "_id": "676ace865b5d51ef6d2e4513",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "accepted",
+      "createdAt": "2024-12-24T15:08:54.532Z",
+      "updatedAt": "2024-12-24T15:08:54.532Z",
+      "__v": 0
+    },
+    {
+      "_id": "676ace9b5b5d51ef6d2e4517",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "processing",
+      "createdAt": "2024-12-24T15:09:15.355Z",
+      "updatedAt": "2024-12-24T15:09:15.355Z",
+      "__v": 0
+    },
+    {
+      "_id": "676ad6615b5d51ef6d2e452d",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "rejected",
+      "createdAt": "2024-12-24T15:42:25.861Z",
+      "updatedAt": "2024-12-24T15:42:25.861Z",
+      "__v": 0
+    },
+    {
+      "_id": "676c3d023a1c6a0f42c89527",
+      "user_id": "67657e81237a56d2487b8367",
+      "total_price": {
+        "$numberDecimal": "15"
+      },
+      "status": "processing",
+      "createdAt": "2024-12-25T17:12:34.092Z",
+      "updatedAt": "2024-12-25T17:12:34.092Z",
+      "__v": 0
+    },
+    {
+      "_id": "683a113801a06ee94cefb49d",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "2884.89"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-30T20:12:40.268Z",
+      "updatedAt": "2025-05-30T20:12:40.268Z",
+      "__v": 0
+    },
+    {
+      "_id": "683a11c601a06ee94cefb4a0",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "285.89"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-30T20:15:02.492Z",
+      "updatedAt": "2025-05-30T20:15:02.492Z",
+      "__v": 0
+    },
+    {
+      "_id": "683a124d01a06ee94cefb4a3",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "395.89000000000004"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-30T20:17:17.895Z",
+      "updatedAt": "2025-05-30T20:17:17.895Z",
+      "__v": 0
+    },
+    {
+      "_id": "683a126a01a06ee94cefb4ac",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "2884.89"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-30T20:17:46.481Z",
+      "updatedAt": "2025-05-30T20:17:46.481Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ac86553091c42b310ec01",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "1100"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T09:14:13.433Z",
+      "updatedAt": "2025-05-31T09:14:13.433Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ac86d53091c42b310ec07",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "1100"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T09:14:21.556Z",
+      "updatedAt": "2025-05-31T09:14:21.556Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ad0e953091c42b310ec0b",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "285.89"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T09:50:33.706Z",
+      "updatedAt": "2025-05-31T09:50:33.706Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ad21953091c42b310ec10",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "35.99"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T09:55:37.096Z",
+      "updatedAt": "2025-05-31T09:55:37.096Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ad28d53091c42b310ec17",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "25.99"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T09:57:33.603Z",
+      "updatedAt": "2025-05-31T09:57:33.603Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ad32553091c42b310ec1e",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "100"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T10:00:05.773Z",
+      "updatedAt": "2025-05-31T10:00:05.773Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b141753091c42b310ec59",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "1200"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T14:37:11.779Z",
+      "updatedAt": "2025-05-31T14:37:11.779Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b187d53091c42b310eca9",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "1225.99"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T14:55:57.468Z",
+      "updatedAt": "2025-05-31T14:55:57.468Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b5dd853091c42b310ed5f",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "100"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T19:51:52.921Z",
+      "updatedAt": "2025-05-31T19:51:52.921Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b601653091c42b310eda6",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "total_price": {
+        "$numberDecimal": "100"
+      },
+      "status": "processing",
+      "createdAt": "2025-05-31T20:01:26.033Z",
+      "updatedAt": "2025-05-31T20:01:26.033Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ca2ce065888cddeea74b7",
+      "user_id": "683ca29d065888cddeea74b1",
+      "total_price": {
+        "$numberDecimal": "337.87"
+      },
+      "status": "accepted",
+      "createdAt": "2025-06-01T18:58:22.346Z",
+      "updatedAt": "2025-06-03T19:44:57.404Z",
+      "__v": 0
+    },
+    {
+      "_id": "683fe5fcf76705ccea86b795",
+      "user_id": "683ca29d065888cddeea74b1",
+      "total_price": {
+        "$numberDecimal": "125.99"
+      },
+      "status": "processing",
+      "createdAt": "2025-06-04T06:21:48.605Z",
+      "updatedAt": "2025-06-04T06:21:48.605Z",
+      "__v": 0
+    },
+    {
+      "_id": "683fe68bf76705ccea86b7be",
+      "user_id": "683ca29d065888cddeea74b1",
+      "total_price": {
+        "$numberDecimal": "155.94"
+      },
+      "status": "processing",
+      "createdAt": "2025-06-04T06:24:11.268Z",
+      "updatedAt": "2025-06-04T06:24:11.268Z",
+      "__v": 0
+    },
+    {
+      "_id": "683fe7ecf76705ccea86b7d1",
+      "user_id": "683ca29d065888cddeea74b1",
+      "total_price": {
+        "$numberDecimal": "200"
+      },
+      "status": "processing",
+      "createdAt": "2025-06-04T06:30:04.504Z",
+      "updatedAt": "2025-06-04T06:30:04.504Z",
+      "__v": 0
+    }
+  ],
+  "users": [
+    {
+      "_id": "675b02bd3a8e4a60ceca2c67",
+      "role": "user",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "password": "$2a$10$E6m6Fdpw5d0tkvXGrm8K3OVhHFgM91JdvHh2CH9vmRANOT5Pt7XUO",
+      "createdAt": "2024-12-12T15:35:25.200Z",
+      "updatedAt": "2024-12-25T17:15:08.909Z",
+      "__v": 0
+    },
+    {
+      "_id": "675b06ac05184f014a2d7971",
+      "role": "admin",
+      "name": "Milky Way",
+      "email": "candy@example.com",
+      "password": "$2a$10$kB97pprnSUGOFGTT34ClhOEYDxYkCg0/6VN/jlrtIFSdwLmzbArVi",
+      "createdAt": "2024-12-12T15:52:12.627Z",
+      "updatedAt": "2024-12-20T13:44:26.068Z",
+      "__v": 0
+    },
+    {
+      "_id": "6766d0478eac489fa567b5df",
+      "role": "user",
+      "name": "Oleksandra Atamanova",
+      "email": "oleksandra.atamanova@nure.ua",
+      "password": "$2a$10$jhDqttNzFs/rdL5nkcYvMOq/akL0fmFHG1oNWdnTVqW/n2u7kj8nS",
+      "createdAt": "2024-12-21T14:27:19.543Z",
+      "updatedAt": "2024-12-25T17:18:27.788Z",
+      "__v": 0
+    },
+    {
+      "_id": "67657e81237a56d2487b8367",
+      "role": "admin",
+      "name": "adminAccount",
+      "email": "admin@email.com",
+      "password": "$2a$10$PId/b.EkMjP5QuqgbyBb1uIjU8Z.vZgiGkYThKCW/nOErD9TOZLTq",
+      "createdAt": "2024-12-20T14:26:09.826Z",
+      "updatedAt": "2024-12-25T17:17:01.399Z",
+      "__v": 0
+    },
+    {
+      "_id": "67682676fc37821fd95a8b7e",
+      "role": "user",
+      "name": "testResAccount",
+      "email": "try@resemail.com",
+      "password": "$2a$10$LY4gVeN94KbIO5.sE9ehnOXGiaf3XkyEhRatWhL2BFNXCz6CevYPC",
+      "createdAt": "2024-12-22T14:47:18.155Z",
+      "updatedAt": "2024-12-22T14:51:28.535Z",
+      "__v": 0
+    },
+    {
+      "_id": "6839de1401a06ee94cefb42b",
+      "role": "user",
+      "name": "Oleksandra",
+      "email": "2025test@gmail.com",
+      "password": "$2a$10$HUNa8/he22ejx8One1pMDuYW6JFD00p5fBk9xJlqocNAMbMCTLfeq",
+      "createdAt": "2025-05-30T16:34:28.289Z",
+      "updatedAt": "2025-05-30T16:34:28.289Z",
+      "__v": 0
+    },
+    {
+      "_id": "6839de8001a06ee94cefb431",
+      "role": "user",
+      "name": "test2025(2)",
+      "email": "2025tes",
+      "password": "$2a$10$hvP3rVwQdZNEs6l5Qy3mhO6dAuv/ijvJZJOoDIHzgBxNgnOdoTbi2",
+      "createdAt": "2025-05-30T16:36:16.411Z",
+      "updatedAt": "2025-05-30T16:36:16.411Z",
+      "__v": 0
+    },
+    {
+      "_id": "6839df8101a06ee94cefb437",
+      "role": "user",
+      "name": "Sasha",
+      "email": "sasha2025@gmail.com",
+      "password": "$2a$10$XsqwZagn599DMejbdgJE5eG8jp/M7sHtmvk3cmemK0cbL1Zy2P0fK",
+      "createdAt": "2025-05-30T16:40:33.176Z",
+      "updatedAt": "2025-05-30T16:40:33.176Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b1fef53091c42b310ecee",
+      "role": "user",
+      "name": "2024Oleksandra",
+      "email": "2024test@gmail.com",
+      "password": "$2a$10$9x2n3BLaYwYYa0/IxDUCb.CTaB39nW.mkgb.NNp61DrMNrE0EtWGe",
+      "createdAt": "2025-05-31T15:27:43.821Z",
+      "updatedAt": "2025-05-31T15:27:43.821Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b5faa53091c42b310ed9a",
+      "role": "user",
+      "name": "test2000",
+      "email": "qdbrb@qrbhhrq",
+      "password": "$2a$10$WtrdjJ.SsYruO5TAtv03TOOjDeVAM.LVrRcrEdLyrTl2706bGDCq2",
+      "createdAt": "2025-05-31T19:59:38.397Z",
+      "updatedAt": "2025-05-31T19:59:38.397Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ca29d065888cddeea74b1",
+      "role": "user",
+      "name": "Sasha",
+      "email": "2023test@gmail.com",
+      "password": "$2a$10$PobQWCZjWBDlYSa2AdNzveVy6mhDhNOwGYLgjpqf3v2OODYPA641i",
+      "createdAt": "2025-06-01T18:57:33.741Z",
+      "updatedAt": "2025-06-01T18:57:33.741Z",
+      "__v": 0
+    },
+    {
+      "_id": "683df9baf23d37a1407d4f05",
+      "role": "admin",
+      "name": "OleksandraPetrivna",
+      "email": "2004@gmail.com",
+      "password": "$2a$10$OxD9H8y5hGyDGjCdJ8/VGOQhVHvzAmsmZZ2Gr712JpxFbvYlXDaEi",
+      "createdAt": "2025-06-02T19:21:30.908Z",
+      "updatedAt": "2025-06-02T19:21:30.908Z",
+      "__v": 0
+    }
+  ],
+  "products": [
+    {
+      "_id": "676d82ad70f621f9b422c03b",
+      "name": "Test LED Strip Import",
+      "description": "RGB LED Strip for testing",
+      "brand": "TestBrand",
+      "size": "5",
+      "type": "Strip",
+      "price": {
+        "$numberDecimal": "25.99"
+      },
+      "quantity": 50,
+      "createdAt": "2024-12-26T16:22:05.059Z",
+      "updatedAt": "2024-12-26T16:22:05.059Z",
+      "__v": 0
+    },
+    {
+      "_id": "675bef7857ae6ff666755596",
+      "name": "Name1",
+      "description": "description1",
+      "brand": "Govee",
+      "size": "5",
+      "type": "Type",
+      "price": {
+        "$numberDecimal": "100"
+      },
+      "quantity": 15,
+      "createdAt": "2024-12-13T08:25:28.968Z",
+      "updatedAt": "2024-12-13T08:25:28.968Z",
+      "__v": 0
+    },
+    {
+      "_id": "675974e10eb9dbd00ef3784a",
+      "name": "LED Lamp Gove",
+      "description": "A bright LED lamp",
+      "brand": "Govee",
+      "size": "Medium",
+      "type": "Lamp",
+      "price": {
+        "$numberDecimal": "25.99"
+      },
+      "quantity": 100,
+      "createdAt": "2024-12-11T11:17:53.258Z",
+      "updatedAt": "2024-12-13T15:20:42.134Z",
+      "__v": 0
+    },
+    {
+      "_id": "676d82ad70f621f9b422c03c",
+      "name": "Test LED Lamp Import",
+      "description": "RGB LED Lamp for testing",
+      "brand": "TestBrand",
+      "size": "10",
+      "type": "Lamp",
+      "price": {
+        "$numberDecimal": "35.99"
+      },
+      "quantity": 30,
+      "createdAt": "2024-12-26T16:22:05.059Z",
+      "updatedAt": "2024-12-26T16:22:05.059Z",
+      "__v": 0
+    },
+    {
+      "_id": "676d92eb59f40e21b0406274",
+      "name": "Test LED Lamp Import 2",
+      "description": "RGB LED Lamp for testing",
+      "brand": "TestBrand",
+      "size": "10",
+      "type": "Lamp",
+      "price": {
+        "$numberDecimal": "35.99"
+      },
+      "quantity": 30,
+      "__v": 0,
+      "createdAt": "2024-12-26T17:31:23.527Z",
+      "updatedAt": "2024-12-26T17:31:23.527Z"
+    },
+    {
+      "_id": "676d92eb59f40e21b0406273",
+      "name": "Test LED Strip Import 2",
+      "description": "RGB LED Strip for testing",
+      "brand": "TestBrand",
+      "size": "5",
+      "type": "Strip",
+      "price": {
+        "$numberDecimal": "25.99"
+      },
+      "quantity": 50,
+      "__v": 0,
+      "createdAt": "2024-12-26T17:31:23.527Z",
+      "updatedAt": "2024-12-26T17:31:23.527Z"
+    }
+  ],
+  "payments": [
+    {
+      "_id": "67682d870678f97540a23822",
+      "order_id": "675c0bec19193f76a59aa804",
+      "user_id": "67657e81237a56d2487b8367",
+      "product_id": "675974e10eb9dbd00ef3784a",
+      "amount": {
+        "$numberDecimal": "15000"
+      },
+      "status": "completed",
+      "payment_date": "2024-12-22T15:17:27.526Z",
+      "__v": 0
+    },
+    {
+      "_id": "675c11e4754ed2ad0d572a88",
+      "order_id": "675c0bec19193f76a59aa804",
+      "user_id": "675bff6c19193f76a59aa7dd",
+      "product_id": "675974e10eb9dbd00ef3784a",
+      "amount": {
+        "$numberDecimal": "150"
+      },
+      "status": "completed",
+      "payment_date": "2024-12-13T10:52:20.188Z",
+      "__v": 0
+    }
+  ],
+  "orderItems": [
+    {
+      "_id": "675c0ebfb03ce0f410bfde18",
+      "order_id": "675c0bec19193f76a59aa804",
+      "product_id": "675974e10eb9dbd00ef3784a",
+      "user_id": "675bff6c19193f76a59aa7dd",
+      "quantity": 2,
+      "price_per_item": {
+        "$numberDecimal": "50"
+      },
+      "createdAt": "2024-12-13T10:38:55.126Z",
+      "updatedAt": "2024-12-13T10:38:55.126Z",
+      "__v": 0
+    },
+    {
+      "_id": "676924c9b2a5adf8cce11b4d",
+      "order_id": "675c0bec19193f76a59aa804",
+      "product_id": "675974e10eb9dbd00ef3784a",
+      "user_id": "67657e81237a56d2487b8367",
+      "quantity": 220,
+      "price_per_item": {
+        "$numberDecimal": "50"
+      },
+      "createdAt": "2024-12-23T08:52:25.634Z",
+      "updatedAt": "2024-12-23T08:52:25.634Z",
+      "__v": 0
+    },
+    {
+      "_id": "683a124d01a06ee94cefb4a5",
+      "order_id": "683a124d01a06ee94cefb4a3",
+      "product_id": "676d82ad70f621f9b422c03c",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 11,
+      "price_per_item": {
+        "$numberDecimal": "35.99"
+      },
+      "createdAt": "2025-05-30T20:17:17.976Z",
+      "updatedAt": "2025-05-30T20:17:17.976Z",
+      "__v": 0
+    },
+    {
+      "_id": "683a126a01a06ee94cefb4ae",
+      "order_id": "683a126a01a06ee94cefb4ac",
+      "product_id": "676d92eb59f40e21b0406273",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 111,
+      "price_per_item": {
+        "$numberDecimal": "25.99"
+      },
+      "createdAt": "2025-05-30T20:17:46.542Z",
+      "updatedAt": "2025-05-30T20:17:46.542Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ad21953091c42b310ec12",
+      "order_id": "683ad21953091c42b310ec10",
+      "product_id": "676d92eb59f40e21b0406274",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "35.99"
+      },
+      "createdAt": "2025-05-31T09:55:37.190Z",
+      "updatedAt": "2025-05-31T09:55:37.190Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ad28d53091c42b310ec19",
+      "order_id": "683ad28d53091c42b310ec17",
+      "product_id": "676d82ad70f621f9b422c03b",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "25.99"
+      },
+      "createdAt": "2025-05-31T09:57:33.677Z",
+      "updatedAt": "2025-05-31T09:57:33.677Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ad32553091c42b310ec20",
+      "order_id": "683ad32553091c42b310ec1e",
+      "product_id": "675bef7857ae6ff666755596",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "100"
+      },
+      "createdAt": "2025-05-31T10:00:05.849Z",
+      "updatedAt": "2025-05-31T10:00:05.849Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b141753091c42b310ec5b",
+      "order_id": "683b141753091c42b310ec59",
+      "product_id": "675bef7857ae6ff666755596",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 12,
+      "price_per_item": {
+        "$numberDecimal": "100"
+      },
+      "createdAt": "2025-05-31T14:37:11.857Z",
+      "updatedAt": "2025-05-31T14:37:11.857Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b187d53091c42b310ecab",
+      "order_id": "683b187d53091c42b310eca9",
+      "product_id": "675bef7857ae6ff666755596",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 12,
+      "price_per_item": {
+        "$numberDecimal": "100"
+      },
+      "createdAt": "2025-05-31T14:55:57.543Z",
+      "updatedAt": "2025-05-31T14:55:57.543Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b187d53091c42b310ecad",
+      "order_id": "683b187d53091c42b310eca9",
+      "product_id": "676d82ad70f621f9b422c03b",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "25.99"
+      },
+      "createdAt": "2025-05-31T14:55:57.653Z",
+      "updatedAt": "2025-05-31T14:55:57.653Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b5dd853091c42b310ed61",
+      "order_id": "683b5dd853091c42b310ed5f",
+      "product_id": "675bef7857ae6ff666755596",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "100"
+      },
+      "createdAt": "2025-05-31T19:51:52.996Z",
+      "updatedAt": "2025-05-31T19:51:52.996Z",
+      "__v": 0
+    },
+    {
+      "_id": "683b601653091c42b310eda8",
+      "order_id": "683b601653091c42b310eda6",
+      "product_id": "675bef7857ae6ff666755596",
+      "user_id": "6839de1401a06ee94cefb42b",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "100"
+      },
+      "createdAt": "2025-05-31T20:01:26.103Z",
+      "updatedAt": "2025-05-31T20:01:26.103Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ca2ce065888cddeea74b9",
+      "order_id": "683ca2ce065888cddeea74b7",
+      "product_id": "675974e10eb9dbd00ef3784a",
+      "user_id": "683ca29d065888cddeea74b1",
+      "quantity": 12,
+      "price_per_item": {
+        "$numberDecimal": "25.99"
+      },
+      "createdAt": "2025-06-01T18:58:22.416Z",
+      "updatedAt": "2025-06-01T18:58:22.416Z",
+      "__v": 0
+    },
+    {
+      "_id": "683ca2ce065888cddeea74bb",
+      "order_id": "683ca2ce065888cddeea74b7",
+      "product_id": "676d82ad70f621f9b422c03b",
+      "user_id": "683ca29d065888cddeea74b1",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "25.99"
+      },
+      "createdAt": "2025-06-01T18:58:22.527Z",
+      "updatedAt": "2025-06-01T18:58:22.527Z",
+      "__v": 0
+    },
+    {
+      "_id": "683fe5fcf76705ccea86b797",
+      "order_id": "683fe5fcf76705ccea86b795",
+      "product_id": "675974e10eb9dbd00ef3784a",
+      "user_id": "683ca29d065888cddeea74b1",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "25.99"
+      },
+      "createdAt": "2025-06-04T06:21:48.683Z",
+      "updatedAt": "2025-06-04T06:21:48.683Z",
+      "__v": 0
+    },
+    {
+      "_id": "683fe5fcf76705ccea86b799",
+      "order_id": "683fe5fcf76705ccea86b795",
+      "product_id": "675bef7857ae6ff666755596",
+      "user_id": "683ca29d065888cddeea74b1",
+      "quantity": 1,
+      "price_per_item": {
+        "$numberDecimal": "100"
+      },
+      "createdAt": "2025-06-04T06:21:48.747Z",
+      "updatedAt": "2025-06-04T06:21:48.747Z",
+      "__v": 0
+    },
+    {
+      "_id": "683fe68bf76705ccea86b7c0",
+      "order_id": "683fe68bf76705ccea86b7be",
+      "product_id": "676d82ad70f621f9b422c03b",
+      "user_id": "683ca29d065888cddeea74b1",
+      "quantity": 6,
+      "price_per_item": {
+        "$numberDecimal": "25.99"
+      },
+      "createdAt": "2025-06-04T06:24:11.334Z",
+      "updatedAt": "2025-06-04T06:24:11.334Z",
+      "__v": 0
+    },
+    {
+      "_id": "683fe7ecf76705ccea86b7d3",
+      "order_id": "683fe7ecf76705ccea86b7d1",
+      "product_id": "675bef7857ae6ff666755596",
+      "user_id": "683ca29d065888cddeea74b1",
+      "quantity": 2,
+      "price_per_item": {
+        "$numberDecimal": "100"
+      },
+      "createdAt": "2025-06-04T06:30:04.568Z",
+      "updatedAt": "2025-06-04T06:30:04.568Z",
+      "__v": 0
+    }
+  ],
+  "timestamp": "2025-06-04T16:38:58.216Z"
+}

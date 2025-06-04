@@ -108,4 +108,17 @@ router.delete('/:id', authenticateToken, checkAdmin, async (req, res) => {
     }
 });
 
+router.put('/:id', authenticateToken, checkAdmin, async (req, res) => {
+    try {
+        const { status } = req.body;
+        const order = await Order.findById(req.params.id);
+        if (!order) return res.status(404).json({ message: 'Order not found' });
+        if (status) order.status = status;
+        const updatedOrder = await order.save();
+        res.json(updatedOrder);
+    } catch (error) {
+        res.status(400).json({ message: error.message });
+    }
+});
+
 module.exports = router;
